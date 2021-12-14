@@ -53,7 +53,7 @@ Python Merge.py
 Por exemplo:
 
 <img src="readme/example_01.png" alt="example" width="600px">
-<br><br>
+<br>
 
 então para não ter esse problema, prefira organizar os diretórios assim:
 
