@@ -32,14 +32,12 @@ python3 -m pip install --upgrade Pillow
 
 1. Faça as instalações necessárias
 2. Clone este repositório no seu computador, ou faça o download do .zip
-
+    - Caso tenha baixado o .zip extraia os arquivos, e entre na pasta "script"
     - Para clonar este repositório, use este comando:
 
 ```
 git clone https://github.com/gredinare/merge-combinations.git
 ```
-
-    - Caso tenha baixado o .zip extraia os arquivos, e entre na pasta "script"
 
 3. Organize as suas imagens desejadas nos diretórios separadas por tema, por padrão o script vem com apenas 3 diretórios mas você pode criar mais ou deletar algum, de acordo com sua necessidade
 4. Execute o script, usando o comando no terminal:
