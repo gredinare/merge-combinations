@@ -2,7 +2,7 @@
 
 ## Sobre
 
-O script recebe um conjunto de imagens separadas por categoria, por exemplo: cor de fundo, vasos e plantas, então ele gera uma imagem pra cada combinação possível com todas as imagens.
+O script recebe um conjunto de imagens separadas por categoria, por exemplo: cor de fundo, vasos e plantas, então ele gera uma imagem pra cada combinação possível.
 
 Exemplo:
 
@@ -30,9 +30,17 @@ python3 -m pip install --upgrade Pillow
 
 ## Como usar
 
-1. Faça as instalações necessárias caso ainda não tenha as mesmas instaladas
-2. Copie este repositório no seu computador, ou faça o download do .zip
+1. Faça as instalações necessárias
+2. Clone este repositório no seu computador, ou faça o download do .zip
+
+    - Para clonar este repositório, use este comando:
+
+```
+git clone https://github.com/gredinare/merge-combinations.git
+```
+
     - Caso tenha baixado o .zip extraia os arquivos, e entre na pasta "script"
+
 3. Organize as suas imagens desejadas nos diretórios separadas por tema, por padrão o script vem com apenas 3 diretórios mas você pode criar mais ou deletar algum, de acordo com sua necessidade
 4. Execute o script, usando o comando no terminal:
 
